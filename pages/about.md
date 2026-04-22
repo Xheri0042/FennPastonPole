@@ -19,11 +19,13 @@ This FICTITIOUS site is generated using [CollectionBuilder-GH](https://collectio
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-To learn more about the medieval period, The Wars of the Roses, The Pastons, or Margaret Pole, be sure to check out the following sites:
-([https://wmich.edu/medievalpublications/](https://wmich.edu/medievalpublications)) 
+To learn more about the content on this site, be sure to check out the following links:
+([https://www.thisispaston.co.uk/home.html](https://www.thisispaston.co.uk/home.html)
+([https://wmich.edu/medievalpublications/](https://wmich.edu/medievalpublications) 
+([https://www.bl.uk/collection/digitised-manuscripts-archives](https://www.bl.uk/collection/digitised-manuscripts-archives)
+([https://www.nationalarchives.gov.uk/](https://www.nationalarchives.gov.uk/)
+([https://rechtsgeschiedenis.wordpress.com/2023/08/28/tracing-medieval-women-in-documents-and-(manuscripts/](https://rechtsgeschiedenis.wordpress.com/2023/08/28/tracing-medieval-women-in-documents-and-manuscripts/)
+
   
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
