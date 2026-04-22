@@ -19,7 +19,8 @@ This FICTITIOUS site is generated using [CollectionBuilder-GH](https://collectio
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+To learn more about the medieval period, The Wars of the Roses, The Pastons, or Margaret Pole, be sure to check out the following sites:
+(https://wmich.edu/medievalpublications)
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
